@@ -1,0 +1,11 @@
+server:
+  port: 8088
+ccc: "cupSize:${cupSize},age:${age}}"
+#  servlet:
+#    context-path: /girl
+girl:
+  cupSize: B
+  age: 18
+
+
+
